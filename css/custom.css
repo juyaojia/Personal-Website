@@ -1,0 +1,113 @@
+div.row img {
+    width:100%;
+    height:auto;
+    padding: 10px;
+}
+
+#banner {
+    border: 2px solid grey;
+    width:100%
+}
+
+.my-sm-0 {
+    border: 1px solid plum;
+    color: black;
+    background-color: bisque;
+}
+
+.my-sm-0:hover {
+    border: 1px solid gold;
+    background-color:brown;
+}
+
+.container {
+    width:100%;
+}
+
+footer {
+    padding-top: 10px;
+    background-color: lavender;
+    border: 2px solid grey;
+    width:100%;
+}
+
+.bg-black {
+    background-color: aqua;
+}
+
+.change {
+    background-color: black;
+}
+
+div.active h5{
+    color: white;
+    background-color: black;
+}
+
+.btn-sm {
+    background-color: brown;
+    color: black;
+    border: 1px solid goldenrod;
+}
+
+#content{
+    background-color: black;
+    text-align: center;
+    color: gold;
+    padding-top:170px;
+    padding-bottom:150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#new {
+    color: rgb(255, 166, 0);
+}
+
+#new:hover {
+    color:white;
+    text-decoration: none;
+}
+
+.bottom {
+    text-align: left;
+    color: black;
+}
+
+.bottom:hover {
+    color: gray;
+}
+
+#foot {
+    text-align: center;
+}
+
+.col-sm-6 {
+    text-align: center;
+}
+
+h1,p{
+    text-align: center;
+}
+
+.page3{
+    background-color: whitesmoke;
+
+}
+
+.page3title {
+    color: saddlebrown;
+    padding:20px;
+}
+
+.display-2 {
+    color: brown;
+}
+
+.display-3 {
+    background-color: whitesmoke;
+    color: brown;
+}
+
+.navbar-dark {
+    background-color: indigo;
+}

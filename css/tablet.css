@@ -1,0 +1,32 @@
+
+div.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.column1 {
+    display:block;
+    width: 50%;
+    float:left;
+}
+
+.column2{
+    display: block;
+    width: 50%;
+    float:left;
+}
+
+.column3{
+    display:block;
+    width: 100%;
+}
+
+div.clear1{
+    clear:both;
+}
+
+header, footer{
+    width: 100%;
+    background-color: lightpink;
+}
+

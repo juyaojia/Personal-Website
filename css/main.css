@@ -1,0 +1,168 @@
+p {
+    font-family: helvetica, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: georgia, serif;
+    font-size: 25px;
+}
+
+h2 {
+    font-family: georgia, serif;
+    font-size: 22px;
+}
+
+h3 {
+    font-family: georgia, serif;
+    font-size: 20px;
+}
+
+a:link {
+    background-color: lavenderblush;
+    color: black;
+}
+
+a:hover {
+    background-color: lemonchiffon;
+    color: brown;
+    text-decoration: none;
+}
+
+a:visited {
+    background-color: purple;
+    color:white;
+}
+
+a:active {
+    background-color:lightcoral;
+    color: saddlebrown;
+}
+
+section {
+    padding: 30px;
+    margin-bottom: 70px;
+    border: 2px solid rgba(219, 0, 29, 0.473);
+}
+
+section#my_background {
+    background-color: rgba(204, 0, 211, 0.068);
+}
+
+section#my_interests {
+    background-color: rgba(160, 113, 13, 0.116);
+}
+
+section h2.about_me {
+    margin-left: auto;
+    margin-right: auto;
+    /**width: 200px;*/
+    padding: 10px;
+    border: 3px dotted rgba(255, 0, 85, 0.829);
+    text-align: center;
+}
+
+figcaption{
+    font-size: 14px;
+}
+
+div.container main {
+   /** width: 800px;*/
+    padding: 30px;
+    border: 2px solid brown;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    margin-left:auto;
+    margin-right:auto;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+img#tmgc {
+    cursor: crosshair;
+}
+
+div#header {
+    margin-left:auto;
+    margin-right:auto;
+    /**width:860px;*/
+    height:120px;
+}
+
+section.prototype, section.wireframes, section.site_map {
+    /**width:1000px;*/
+    margin: 0 auto;
+    border: 2px solid rgba(204, 0, 211, 0.068);
+    background-color: rgba(144, 0, 211, 0.103);
+}
+
+section.wireframes img.ux {
+    /**width: 470px;*/
+    height: 640px;
+    float:left; 
+
+}
+div.clear{
+    clear:both;
+}
+
+section.prototype h2, section.wireframes h2, section.site_map h2 {
+    text-align: center;
+    /**width: 200px;*/
+    border: 2px solid palevioletred;
+    margin: 10px auto;
+}
+
+section.site_map img.site_map{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+nav {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1#heading{
+    margin: 30px auto;
+    text-align: center;
+}
+
+section.prototype h2 a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+div#ux_link {
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+div.container {
+    background-color: rgba(105, 90, 205, 0.219);
+}
+
+.responsive {
+    width: 50%;
+    height: auto;
+}
